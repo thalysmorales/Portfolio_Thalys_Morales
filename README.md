@@ -2,7 +2,7 @@
 
 Portfólio pessoal desenvolvido com HTML, CSS e JavaScript, apresentando projetos, trajetória acadêmica/profissional e formas de contato.
 
-🔗 **Acesse:** _adicione aqui o link do deploy (Netlify, Vercel, GitHub Pages...)_
+🔗 **Acesse:** [_adicione aqui o link do deploy (Netlify, Vercel, GitHub Pages...)_](https://moralesthalys-portfolio.netlify.app/)
 
 ## 📸 Sobre o projeto
 
