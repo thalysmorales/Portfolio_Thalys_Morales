@@ -518,7 +518,8 @@ html,body {
 
 .contato {
     display: flex;
-    padding-left: 6rem;
+    justify-content: center;
+    align-items: center;
     gap: 11rem;
 }
 
